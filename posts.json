@@ -1,12 +1,12 @@
 [
   {
-    "title": "My First Blog Post!",
+    "title": "My First Blog!",
     "slug": "my-first-post",
     "date": "2026-10-27",
     "cover": "https://images.unsplash.com/photo-1499750310107-5fef28a66643",
     "excerpt": "Welcome to my blog! This is a sample post to test the Carrd Blog template.",
     "path": "posts/first-post.md",
-    "sha": "1d614a6ff13a1ec5da58c69133097aa50a4ee5e3",
-    "updated_at": "2026-11-07T13:05:33+08:00"
+    "sha": "92996eb15cbfd368b8c386b76fdb76ac390e6380",
+    "updated_at": "2026-11-07T14:15:30+08:00"
   }
 ]
